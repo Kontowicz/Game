@@ -1,2 +1,2 @@
 # Game
-My first simple game writen in C++ using SFML.
+Pierwszy większy projetk w C++, jest to prosta gra pozwalająca na trening podzielności uwagi i zręczności. 
